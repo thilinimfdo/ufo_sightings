@@ -10,6 +10,8 @@ Each of the white input boxes to the left can be used to filter any UFO sighting
 
 E.g., searching for a specific data
 ![specific date](https://github.com/thilinimfdo/ufo_sightings/blob/main/static/images/search_item.png)
+
+
 Search result
 ![search result](https://github.com/thilinimfdo/ufo_sightings/blob/main/static/images/search_result.png)
 
